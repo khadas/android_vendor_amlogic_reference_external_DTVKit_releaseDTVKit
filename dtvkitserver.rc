@@ -1,0 +1,9 @@
+on post-fs-data
+    mkdir /data/vendor/dtvkit 0770 root root
+    insmod /vendor/lib/modules/afd_module.ko
+    start dtvkit
+
+service dtvkit /vendor/bin/hw/dtvkitserver
+    class core
+    user root
+    group system wakelock media_rw mediadrm root
