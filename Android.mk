@@ -63,7 +63,8 @@ LOCAL_SHARED_LIBRARIES := \
     libsecmem \
     libsystemcontrolservice \
     vendor.amlogic.hardware.systemcontrol@1.0 \
-    vendor.amlogic.hardware.systemcontrol@1.1
+    vendor.amlogic.hardware.systemcontrol@1.1 \
+    libfmq_vendor.so
 
 LOCAL_MODULE := dtvkitserver
 LOCAL_SRC_FILES := dtvkitserver
