@@ -1,5 +1,6 @@
 on post-fs-data
     mkdir /data/vendor/dtvkit 0770 root root
+    mkdir /data/vendor/oad 0775 root root
     insmod /vendor/lib/modules/afd_module.ko
     start dtvkit
 
