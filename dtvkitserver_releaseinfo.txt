@@ -1,9 +1,9 @@
 android-rpcservice
-commit 4191cf135659e64e2d769e97a1d82f204f5c51ff
-Date:   Fri Nov 11 01:03:06 2022 -0800
+commit dbeb6ef863a77c19b91de006393a98388d3c6fb4
+Date:   Mon Nov 14 03:33:39 2022 -0800
 DVBCore
-commit d220acb46278f03ab385925edd53253258532e06
-Date:   Thu Nov 10 14:38:10 2022 +0800
+commit 50674982f13689b01561fa1a5642d38bf7bc0fd4
+Date:   Mon Nov 14 03:45:32 2022 -0800
 dtvkit-amlogic
 commit 707d650a1745ccecc322ada3eb68467743abb3b9
 Date:   Tue Nov 8 19:25:16 2022 -0800
@@ -11,8 +11,8 @@ CI-Plus
 commit a4eb890d11fad3223a0c52fd97ca0c6f28c79d8f
 Date:   Fri Sep 23 17:07:57 2022 +0800
 CERT
-commit 823ef8638a69d7360421212f86d79b34395205bd
-Date:   Wed Nov 9 18:44:05 2022 -0800
+commit 78869712b63753d5e3185c364f66c27d5385d671
+Date:   Mon Nov 14 19:15:03 2022 +0800
 DSMCC
 commit 8af6b062813fb8c2ad63340636335364cd974227
 Date:   Thu Oct 13 11:28:03 2022 +0800
