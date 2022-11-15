@@ -1,6 +1,6 @@
 android-rpcservice
-commit dbeb6ef863a77c19b91de006393a98388d3c6fb4
-Date:   Mon Nov 14 03:33:39 2022 -0800
+commit 19f144516d64130397b0936eff46089372c8b479
+Date:   Fri Nov 11 17:05:17 2022 +0800
 DVBCore
 commit 50674982f13689b01561fa1a5642d38bf7bc0fd4
 Date:   Mon Nov 14 03:45:32 2022 -0800
