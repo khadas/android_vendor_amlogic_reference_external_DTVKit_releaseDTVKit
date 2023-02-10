@@ -1,12 +1,12 @@
 android-rpcservice
-commit d4e966367a89c92452c2a7bc6318596f06e82886
-Date:   Thu Feb 9 00:51:09 2023 -0800
+commit ff2ba520c414a9b5c8bb61047801d1866bc855fe
+Date:   Fri Feb 10 16:02:36 2023 +0800
 DVBCore
-commit b6af1b07a550c1d66557dc2e2e2f4606fdb8f7ee
-Date:   Thu Feb 9 00:51:18 2023 -0800
+commit a55fd8c33c44c16d3037855d683b61bc8fb1f883
+Date:   Fri Feb 10 01:14:11 2023 -0800
 dtvkit-amlogic
-commit 4ad877ea525ef1e03055ac913546b703287898a1
-Date:   Thu Feb 9 00:33:01 2023 -0800
+commit 7abe9683e26efb421479cf54077fdbf1fa976bb8
+Date:   Fri Feb 10 16:28:51 2023 +0800
 CI-Plus
 commit 4de8b663ca28c0e31b2f1281c98ce018bc34cae9
 Date:   Thu Feb 2 16:49:47 2023 +0800
@@ -14,8 +14,9 @@ CERT
 commit 5031772050f01bdbc013514973900b70695cc2a6
 Date:   Thu Feb 2 18:59:40 2023 +0800
 DSMCC
-commit 1e0a36a1a593edd484002cb80d257984efc0f163
-Date:   Thu Dec 29 14:38:10 2022 +0800
+commit 420b57abab6c63867f0e1ab1789df86ec56f5b51
+Date:   Fri Feb 10 13:35:16 2023 +0800
+    obs fix,commit:github.DTVKit/DSMCC:ddbc4148a0e4f26208eaeb2767ab95ea13d4a15f
 MHEG5
 commit 46e9df1c8495f8cf6f123c4d53ea86b6005d94b2
 Date:   Fri Nov 18 16:28:02 2022 +0800
