@@ -73,6 +73,7 @@ LOCAL_SRC_FILES := dtvkitserver
 LOCAL_INIT_RC := dtvkitserver.rc
 LOCAL_VINTF_FRAGMENTS := vendor.amlogic.hardware.dtvkitserver@1.0.xml
 LOCAL_MODULE_RELATIVE_PATH := hw
+LOCAL_MULTILIB := 32
 include $(BUILD_PREBUILT)
 endif
 
