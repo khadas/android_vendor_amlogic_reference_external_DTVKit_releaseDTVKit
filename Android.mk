@@ -77,9 +77,7 @@ LOCAL_MULTILIB := 32
 include $(BUILD_PREBUILT)
 endif
 
-$(warning CIPLUS_TA:$(LOCAL_TA) )
 ifeq ($(LOCAL_PATH)/$(LOCAL_TA), $(wildcard $(LOCAL_PATH)/$(LOCAL_TA)))
-$(warning Install CIPLUS_TA:$(LOCAL_TA) )
 
 include $(CLEAR_VARS)
 LOCAL_SRC_FILES := $(LOCAL_TA)
