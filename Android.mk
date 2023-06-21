@@ -64,7 +64,7 @@ LOCAL_SHARED_LIBRARIES := \
     libsystemcontrolservice \
     vendor.amlogic.hardware.systemcontrol@1.0 \
     vendor.amlogic.hardware.systemcontrol@1.1 \
-    libfmq_vendor \
+    libfmq.vendor \
     libmeson_display_adapter_remote \
     libmeson_display_service
 
